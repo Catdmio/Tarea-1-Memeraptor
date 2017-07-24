@@ -15,3 +15,10 @@ h1{
 .extra-grande{
 	font-size: 20px;	
 }
+ul.navbar{
+	list-style-type: none;
+}
+ul.navbar li{
+	float:left;
+	padding: 50px;
+}
