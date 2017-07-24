@@ -1,0 +1,17 @@
+body{
+	font-family: 'PT Sans', sans-serif;
+	margin: 0px;
+}
+p{
+	color: #555555;
+}
+h1{
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700
+}
+#logo{
+	height: 100px;
+}
+.extra-grande{
+	font-size: 20px;	
+}
