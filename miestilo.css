@@ -1,6 +1,7 @@
 body{
 	font-family: 'PT Sans', sans-serif;
 	margin: 0px;
+	background-image: url('imagenes/stardust.png');
 }
 p{
 	color: #555555;
