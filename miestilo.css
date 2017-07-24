@@ -17,6 +17,9 @@ h1{
 	font-size: 20px;	
 }
 ul.navbar{
+	/**background-image: url('imagenes/stardust.png');**/
+	background-color: white;
+	height: 200px;
 	list-style-type: none;
 }
 ul.navbar li{
